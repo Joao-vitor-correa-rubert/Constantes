@@ -1,0 +1,3 @@
+# Constantes
+
+Constante em Javascript
